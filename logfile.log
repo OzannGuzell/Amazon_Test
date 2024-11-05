@@ -1,0 +1,4 @@
+2024-11-05 08:32:27,101 INFO  [Log] search_a_product()PASSED 
+2024-11-05 08:32:31,374 INFO  [Log] select_a_product()PASSED 
+2024-11-05 08:32:33,260 INFO  [Log] add_product_to_cart()PASSED 
+2024-11-05 08:32:34,597 INFO  [Log] go_to_cart()PASSED 
